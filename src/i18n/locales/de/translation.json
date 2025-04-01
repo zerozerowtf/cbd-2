@@ -1,0 +1,113 @@
+{
+  "navigation": {
+    "apartment": "Apartment",
+    "area": "Airole & Umgebung",
+    "blog": "Aktuelles",
+    "booking": "Buchen & Kontakt",
+    "open": "Menü öffnen",
+    "close": "Menü schließen",
+    "language": "Sprache wählen"
+  },
+  "home": {
+    "title": "Casa di Barbara",
+    "subtitle": "Ihr mediterranes Zuhause in Airole, Ligurien",
+    "bookNow": "Jetzt buchen",
+    "features": {
+      "title": "Ihr perfekter Aufenthalt",
+      "location": {
+        "title": "Traumhafte Lage",
+        "description": "Genießen Sie den atemberaubenden Blick auf die ligurische Landschaft"
+      },
+      "comfort": {
+        "title": "Moderner Komfort",
+        "description": "Vollständig renoviert mit allem Komfort für Ihren perfekten Aufenthalt"
+      },
+      "experience": {
+        "title": "Authentisches Erlebnis",
+        "description": "Erleben Sie das echte italienische Dorfleben in Airole"
+      }
+    },
+    "about": {
+      "title": "Über Casa di Barbara",
+      "description": "Entdecken Sie unser charmantes Apartment im Herzen von Airole, wo Tradition auf modernen Komfort trifft. Perfekt gelegen für Ausflüge an die Küste und in die Berge.",
+      "learnMore": "Mehr erfahren"
+    },
+    "highlights": {
+      "title": "Apartment Highlights",
+      "kitchen": "Voll ausgestattete Küche",
+      "bedroom": "Komfortables Schlafzimmer",
+      "bathroom": "Modernes Badezimmer",
+      "terrace": "Private Terrasse",
+      "wifi": "Kostenloses WLAN",
+      "ac": "Klimaanlage"
+    },
+    "explore": {
+      "title": "Entdecken Sie die Umgebung",
+      "description": "Von mittelalterlichen Dörfern bis zu den Stränden der Riviera - erkunden Sie die vielfältige Region.",
+      "beaches": "Strände",
+      "mountains": "Berge",
+      "villages": "Dörfer",
+      "viewAll": "Alle Aktivitäten anzeigen"
+    }
+  },
+  "area": {
+    "title": "Airole & Umgebung",
+    "subtitle": "Entdecken Sie die Schönheit Liguriens und der Côte d'Azur",
+    "travel": {
+      "title": "Reiseinfos",
+      "subtitle": "So erreichen Sie Airole und die umliegende Region",
+      "car": "Mit dem Auto",
+      "plane": "Mit dem Flugzeug",
+      "train": "Mit der Bahn",
+      "bus": "Mit dem Bus"
+    },
+    "airole": {
+      "title": "Airole",
+      "subtitle": "Ein verborgenes Juwel Liguriens mit reicher Geschichte und lebendiger Kultur",
+      "charm": "Ein Dorf voller Charme",
+      "features": "Das macht Airole besonders",
+      "history": "Historische Wurzeln",
+      "culinary": "Kulinarische Genüsse",
+      "festivals": "Festivals und Traditionen",
+      "nature": "Naturerlebnisse",
+      "lifestyle": "Lebensart",
+      "art": "Künstlerisches Erbe"
+    },
+    "cities": {
+      "title": "Städte in der Nähe",
+      "subtitle": "Entdecken Sie die Schönheit und Vielfalt der umliegenden Städte"
+    },
+    "activities": {
+      "title": "Freizeitaktivitäten",
+      "subtitle": "Entdecken Sie die vielfältigen Aktivitäten in und um Airole"
+    },
+    "contacts": {
+      "title": "Kontakte in Airole",
+      "subtitle": "Nützliche Adressen und Informationen für Ihren Aufenthalt",
+      "municipality": "Gemeinde Airole",
+      "restaurants": "Lokale Restaurants und Cafés",
+      "adventure": "Parco Avventura Airole",
+      "products": "Lokale Produkte",
+      "proLoco": "Verein Pro Loco Airole",
+      "visit": "Website besuchen"
+    }
+  },
+  "blog": {
+    "title": "Unser Blog",
+    "subtitle": "Geschichten aus Airole und der Umgebung",
+    "readMore": "Weiterlesen",
+    "backToOverview": "Zurück zur Übersicht",
+    "publishedOn": "Veröffentlicht am",
+    "author": "Autor",
+    "categories": "Kategorien",
+    "relatedPosts": "Ähnliche Beiträge"
+  },
+  "footer": {
+    "quickLinks": "Schnellzugriff",
+    "followUs": "Folgen Sie uns",
+    "rights": "Alle Rechte vorbehalten.",
+    "privacy": "Datenschutz",
+    "terms": "AGB",
+    "imprint": "Impressum"
+  }
+}

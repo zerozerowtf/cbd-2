@@ -1,0 +1,113 @@
+{
+  "navigation": {
+    "apartment": "Appartamento",
+    "area": "Airole & Dintorni",
+    "blog": "Novità",
+    "booking": "Prenota & Contatti",
+    "open": "Apri menu",
+    "close": "Chiudi menu",
+    "language": "Scegli lingua"
+  },
+  "home": {
+    "title": "Casa di Barbara",
+    "subtitle": "La tua casa mediterranea ad Airole, Liguria",
+    "bookNow": "Prenota ora",
+    "features": {
+      "title": "Il tuo soggiorno perfetto",
+      "location": {
+        "title": "Posizione mozzafiato",
+        "description": "Goditi viste spettacolari sul paesaggio ligure"
+      },
+      "comfort": {
+        "title": "Comfort moderno",
+        "description": "Completamente ristrutturato con tutti i comfort per il tuo soggiorno perfetto"
+      },
+      "experience": {
+        "title": "Esperienza autentica",
+        "description": "Vivi l'autentica vita di un villaggio italiano ad Airole"
+      }
+    },
+    "about": {
+      "title": "Su Casa di Barbara",
+      "description": "Scopri il nostro incantevole appartamento nel cuore di Airole, dove la tradizione incontra il comfort moderno. Posizione ideale per gite verso la costa e le montagne.",
+      "learnMore": "Scopri di più"
+    },
+    "highlights": {
+      "title": "Caratteristiche dell'appartamento",
+      "kitchen": "Cucina completamente attrezzata",
+      "bedroom": "Camera da letto confortevole",
+      "bathroom": "Bagno moderno",
+      "terrace": "Terrazza privata",
+      "wifi": "WiFi gratuito",
+      "ac": "Aria condizionata"
+    },
+    "explore": {
+      "title": "Esplora i dintorni",
+      "description": "Dai villaggi medievali alle spiagge della Riviera - esplora questa regione diversificata.",
+      "beaches": "Spiagge",
+      "mountains": "Montagne",
+      "villages": "Villaggi",
+      "viewAll": "Vedi tutte le attività"
+    }
+  },
+  "area": {
+    "title": "Airole & Dintorni",
+    "subtitle": "Scopri la bellezza della Liguria e della Costa Azzurra",
+    "travel": {
+      "title": "Informazioni di viaggio",
+      "subtitle": "Come raggiungere Airole e la regione circostante",
+      "car": "In auto",
+      "plane": "In aereo",
+      "train": "In treno",
+      "bus": "In autobus"
+    },
+    "airole": {
+      "title": "Airole",
+      "subtitle": "Un gioiello nascosto della Liguria con una ricca storia e una cultura vibrante",
+      "charm": "Un villaggio pieno di fascino",
+      "features": "Cosa rende Airole speciale",
+      "history": "Radici storiche",
+      "culinary": "Delizie culinarie",
+      "festivals": "Festival e tradizioni",
+      "nature": "Esperienze nella natura",
+      "lifestyle": "Stile di vita",
+      "art": "Patrimonio artistico"
+    },
+    "cities": {
+      "title": "Città vicine",
+      "subtitle": "Scopri la bellezza e la diversità delle città circostanti"
+    },
+    "activities": {
+      "title": "Attività ricreative",
+      "subtitle": "Scopri le diverse attività ad Airole e nei dintorni"
+    },
+    "contacts": {
+      "title": "Contatti ad Airole",
+      "subtitle": "Indirizzi utili e informazioni per il tuo soggiorno",
+      "municipality": "Comune di Airole",
+      "restaurants": "Ristoranti e caffè locali",
+      "adventure": "Parco Avventura Airole",
+      "products": "Prodotti locali",
+      "proLoco": "Associazione Pro Loco Airole",
+      "visit": "Visita il sito web"
+    }
+  },
+  "blog": {
+    "title": "Il nostro blog",
+    "subtitle": "Storie da Airole e dintorni",
+    "readMore": "Leggi di più",
+    "backToOverview": "Torna alla panoramica",
+    "publishedOn": "Pubblicato il",
+    "author": "Autore",
+    "categories": "Categorie",
+    "relatedPosts": "Post correlati"
+  },
+  "footer": {
+    "quickLinks": "Link rapidi",
+    "followUs": "Seguici",
+    "rights": "Tutti i diritti riservati.",
+    "privacy": "Privacy",
+    "terms": "Termini e condizioni",
+    "imprint": "Impressum"
+  }
+}
